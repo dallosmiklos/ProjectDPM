@@ -29,6 +29,9 @@ namespace Kalapacsvetes
         {
             return $"{Helyezes}; {Eredmeny}m; {Nev}; {OrszagKod}; {Helyszin}; {Datum.ToShortDateString()}";
         }
+
+
+
     }
 
 }
