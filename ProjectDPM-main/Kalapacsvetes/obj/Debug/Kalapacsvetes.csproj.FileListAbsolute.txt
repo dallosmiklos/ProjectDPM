@@ -1,0 +1,21 @@
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+C:\Users\Your-Computer\Desktop\iskola\C#\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+C:\Users\claus\OneDrive\Asztali gép\ProjectDPM\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+D:\IKT projekt\ProjectDPM-main\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
